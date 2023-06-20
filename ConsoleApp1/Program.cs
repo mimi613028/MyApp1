@@ -6,3 +6,4 @@ int s = a + b;
 
 Console.WriteLine("a+b=" + s);
 //哈哈哈哈哈 我進來嚕~
+//小夫我要進來嘍~
